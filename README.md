@@ -3,6 +3,7 @@ The project is based on JavaScript (next refactoring to TypeScript) and Bootstra
 
 ## LIVE
 https://sendwish.azurewebsites.net/
+Login: test2, Hasło: test
 
 #### compile ts file
 npm run tscompile 
